@@ -10,8 +10,8 @@ I'm a lawyer, geek and writer living and working in Princeton. I like stumbling 
 -  🤝 [Social.lol](https://social.lol/@joeross)
 -  💻 [GitHub](https://github.com/joeross)
 - 🎸 [Libre.fm](https://libre.fm/user/joerossFM)
-- 🌆 [joeross.neocities.org](https://joeross.neocities.org/)
-- 🐱 [joeross.nekoweb.org](https://joeross.nekoweb.org/)
+- 🌆 [neocities](https://joeross.neocities.org/)
+- 🐱 [nekoweb](https://joeross.nekoweb.org/)
 -  💼 [LinkedIn](https://www.linkedin.com/in/joerossesq)
 
 
