@@ -14,5 +14,9 @@ I'm a lawyer, geek and writer living and working in Princeton. I like stumbling 
 - 🐱 [nekoweb](https://joeross.nekoweb.org/)
 -  💼 [LinkedIn](https://www.linkedin.com/in/joerossesq)
 
+<!-- RecentFM music integration -->
+    <p>
+        <script src="https://recentfm.rknight.me/now.js?u=joerossFM"></script>
+    </p> 
 
 [](proven.lol/d0a98a)
